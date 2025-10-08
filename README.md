@@ -1,25 +1,30 @@
-# 👩‍💻 Hey, I'm Harinipriya  
+# 👩‍💻 Hey, I'm Harinipriya
 
 I’m really glad to introduce myself! I’m passionate about technology and development, constantly improving my skills to build creative and meaningful digital experiences.  
-Every project I create helps me learn, grow, and move closer to becoming a full-stack developer 🚀  
+Every project I create helps me learn, grow, and move closer to becoming a full-stack developer 🚀
 
 ---
 
-### 💻 About Me  
-🌱 **Aspiring Full-Stack Developer** | Exploring both frontend and backend technologies  
+### 💻 About Me
+🌱 Aspiring Full-Stack Developer | Exploring both frontend and backend technologies  
 🧠 Skilled in **HTML, CSS, JavaScript, C++, and Python**  
 📘 Currently learning **Java**  
 💡 Love writing clean, structured, and efficient code  
-🎯 Aim: To create impactful projects and contribute to open-source  
+🎯 Aim: To create impactful projects and contribute to open-source
 
 ---
 
-### 🛠️ Languages and Tools  
-HTML • CSS • JavaScript • C++ • Python • Java • Git • GitHub • VS Code  
+### 🛠️ Languages and Tools
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 
 ---
 
-### 📊 GitHub Stats  
+### 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Harinipriya1808&show_icons=true&theme=tokyonight" />
@@ -28,8 +33,14 @@ HTML • CSS • JavaScript • C++ • Python • Java • Git • GitHub • V
 
 ---
 
-### 📫 Connect with Me  
-🌐 [LinkedIn]()  
+### 📈 GitHub Streak & Visitors
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Harinipriya1808&theme=tokyonight)
+![Visitor Count](https://profile-counter.glitch.me/Harinipriya1808/count.svg)
+
+---
+
+### 📫 Connect with Me
+🌐 [LinkedIn](https://linkedin.com/in/your-linkedin)  
 ✉️ [Email](mailto:harinipriya.js2008@gmail.com)
 
 ---
