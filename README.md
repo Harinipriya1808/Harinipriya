@@ -27,15 +27,19 @@ Every project I create helps me learn, grow, and move closer to becoming a full-
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Harinipriya1808&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Harinipriya1808&show_icons=true&theme=tokyonight" /><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harinipriya1808&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
-### 📈 GitHub Streak & Visitors
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Harinipriya1808&theme=tokyonight)
-![Visitor Count](https://profile-counter.glitch.me/Harinipriya1808/count.svg)
+### 📈 GitHub Streak
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Harinipriya1808&theme=tokyonight"><br>
+  <img  src="https://komarev.com/ghpvc/?username=Harinipriya1808&color=blue">
+</p>
+
 
 ---
 
