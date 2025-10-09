@@ -44,7 +44,7 @@ Every project I create helps me learn, grow, and move closer to becoming a full-
 ---
 
 ### 📫 Connect with Me
-🌐 [LinkedIn](https://linkedin.com/in/your-linkedin)  
+🌐 [LinkedIn](https://www.linkedin.com/in/harinipriya-k-3290a8382)  
 ✉️ [Email](mailto:harinipriya.js2008@gmail.com)
 
 ---
